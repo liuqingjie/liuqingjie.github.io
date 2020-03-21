@@ -83,10 +83,10 @@ author:
   name             : "Qingjie Liu (刘庆杰)"
   avatar           : "profile.png"
   bio              : "Asistant Professor"
-  location         : "Beijing"
+  location         : "Beijing, China"
   employer         : "Beihang University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :  "qingjie.liu@buaa.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "github.com/liuqingjie"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : weibo.com/liuqj
   xing             :
   youtube          :
   wikipedia        :
