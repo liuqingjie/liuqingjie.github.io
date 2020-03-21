@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qingjie Liu / Site Title"
+title                    : "Dr. Qingjie Liu / Site Title"
 title_separator          : "-"
 name                     : &name "Liu Qingjie"
 description              : &description "personal description"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qingjie Liu (刘庆杰)"
+  name             : "Dr. Qingjie Liu (刘庆杰)"
   avatar           : "profile.png"
-  bio              : "Asistant Professor"
-  location         : "Beijing, China"
-  employer         : "Beihang University"
+  bio              : "Dr. Qingjie Liu is now an Asistant Professor at Beihang University. His research interests include computer vision and remote sensing image analyusls."
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            :  "qingjie.liu@buaa.edu.cn"
