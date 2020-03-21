@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qingjie Liu / Site Title"
+title                    : "Yourname / Site Title"
 title_separator          : "-"
 name                     : &name "Liu Qingjie"
 description              : &description "personal description"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qingjie Liu (刘庆杰)"
+  name             : "Yourname"
   avatar           : "profile.png"
-  bio              : "Asistant Professor"
-  location         : "Beijing"
-  employer         : "Beihang University"
+  bio              : "bio goes here"
+  location         : "loc"
+  employer         : "*** University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "qingjie.liu@buaa.edu.cn"
